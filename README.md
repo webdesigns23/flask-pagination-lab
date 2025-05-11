@@ -93,7 +93,7 @@ Test routes in browser or Postman. Run the test suite with:
 pytest
 ```
 
-#### Step x: Commit and Push Git History
+#### Step 5: Commit and Push Git History
 
 * Commit and push your code:
 
